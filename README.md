@@ -115,7 +115,9 @@ a następnie prosi o podanie argumentów.
 Na wyjściu program drukuje wynik działania i pyta czy kontynuować obliczenia. 
 
 Proszę zwrócić uwagę na dzielenie przez zero. Program powinien również sygnalizować brak lub nieprawidłowość podanych przez użytkownika argumentów (np. litera zamiast cyfry, kropka czy przecinek do oddzielenia części rzeczywistej i ułamkowej, liczba cyfr po przecinku większa niż dopuszczalna itp.).
+
 #Task 5
+
 Zaimplementuj grę w kółko i krzyżyk, w której jednym z graczy jest użytkownik, drugim - komputer.
 
 Dane wejściowe:
